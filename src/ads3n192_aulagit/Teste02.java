@@ -9,14 +9,6 @@ package ads3n192_aulagit;
  *
  * @author 631810163
  */
-public class ADS3n192_AulaGit {
-
-    /**
-     * @param args the command line arguments
-     */
-    public static void main(String[] args) {
-        // TODO code application logic here
-        String X = "17";
+public class Teste02 {
     
 }
-    
